@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "6gRO0x+tWpVD0FENMOM7J15U8t6moWEffO2QM9dwRqrqB8HbORHyL9AMMRdTorfVuxBpRirl0l98ULG8cZX95w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\egor\\RiderProjects\\SeleniumTests_Golovachev\\SeleniumTests_Golovachev\\SeleniumTests_Golovachev.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\egor\\.nuget\\packages\\microsoft.codecoverage\\17.9.0\\microsoft.codecoverage.17.9.0.nupkg.sha512",
+    "C:\\Users\\egor\\.nuget\\packages\\microsoft.net.test.sdk\\17.9.0\\microsoft.net.test.sdk.17.9.0.nupkg.sha512",
+    "C:\\Users\\egor\\.nuget\\packages\\microsoft.testplatform.objectmodel\\17.9.0\\microsoft.testplatform.objectmodel.17.9.0.nupkg.sha512",
+    "C:\\Users\\egor\\.nuget\\packages\\microsoft.testplatform.testhost\\17.9.0\\microsoft.testplatform.testhost.17.9.0.nupkg.sha512",
+    "C:\\Users\\egor\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\egor\\.nuget\\packages\\nunit\\4.1.0\\nunit.4.1.0.nupkg.sha512",
+    "C:\\Users\\egor\\.nuget\\packages\\selenium.webdriver\\4.19.0\\selenium.webdriver.4.19.0.nupkg.sha512",
+    "C:\\Users\\egor\\.nuget\\packages\\system.reflection.metadata\\1.6.0\\system.reflection.metadata.1.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}
