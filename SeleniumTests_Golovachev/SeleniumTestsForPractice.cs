@@ -16,20 +16,18 @@ public class SeleniumTestsForPractice
         var driver = new ChromeDriver(option);
         var url = "https://staff-testing.testkontur.ru";
         driver.Navigate().GoToUrl(url);
-        Thread.Sleep(5000);
-        
+
         var login = driver.FindElement(By.Id("Username"));
         login.SendKeys("bfire2066@gmail.com");
         var password = driver.FindElement(By.Id("Password"));
         password.SendKeys("Bl0@dFire63");
-        Thread.Sleep(5000);
         
         var enter = driver.FindElement(By.Name("button"));
         enter.Click();
         Thread.Sleep(5000);
-
+        
         var currentUrl = driver.Url;
-        Assert.That(currentUrl == "https://staff-testing.testkontur.ru/news");
+        Assert.That(currentUrl == url + "/news");
         
         driver.Quit();
     }
