@@ -95,3 +95,8 @@ C:\Users\egor\RiderProjects\SeleniumTests_Golovachev\SeleniumTests_Golovachev\ob
 C:\Users\egor\RiderProjects\SeleniumTests_Golovachev\SeleniumTests_Golovachev\obj\Debug\net6.0\SeleniumTests_Golovachev.pdb
 C:\Users\egor\RiderProjects\SeleniumTests_Golovachev\SeleniumTests_Golovachev\obj\Debug\net6.0\SeleniumTests_Golovachev.genruntimeconfig.cache
 C:\Users\egor\RiderProjects\SeleniumTests_Golovachev\SeleniumTests_Golovachev\obj\Debug\net6.0\ref\SeleniumTests_Golovachev.dll
+C:\Users\egor\RiderProjects\SeleniumTests_Golovachev\SeleniumTests_Golovachev\bin\Debug\net6.0\FluentAssertions.dll
+C:\Users\egor\RiderProjects\SeleniumTests_Golovachev\SeleniumTests_Golovachev\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\egor\RiderProjects\SeleniumTests_Golovachev\SeleniumTests_Golovachev\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\egor\RiderProjects\SeleniumTests_Golovachev\SeleniumTests_Golovachev\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\egor\RiderProjects\SeleniumTests_Golovachev\SeleniumTests_Golovachev\bin\Debug\net6.0\SeleniumExtras.WaitHelpers.dll
