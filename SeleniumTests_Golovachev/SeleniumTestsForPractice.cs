@@ -96,9 +96,9 @@ public class SeleniumTestsForPractice
     public void Auth()
     {
         var login = driver.FindElement(By.Id("Username"));
-        login.SendKeys("bfire2066@gmail.com");
+        login.SendKeys("xxxxx");
         var password = driver.FindElement(By.Id("Password"));
-        password.SendKeys("Bl0@dFire63");
+        password.SendKeys("xxxxx");
         
         var enter = driver.FindElement(By.Name("button"));
         enter.Click();
